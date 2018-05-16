@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Jasonccs\\Zhifubao\\": "src/"
+            "Jasonccs\\Zhifubao\\": "src/" 
         }
     }    
 }
